@@ -11,7 +11,7 @@
 
 - Install Opencv
 - python run First file capture image in disk
-- python run 2nd file tain the model
+- python run 2nd file train the model
 - python run 3rd file output the program
 - Done! :tada:
 
