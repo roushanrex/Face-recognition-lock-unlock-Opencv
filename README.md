@@ -16,10 +16,7 @@
 - Done! :tada:
 
 :point_down:Screenshot:
-
-<p align="center">
 ![Screenshot (21)](https://user-images.githubusercontent.com/29664631/64918713-c37d3980-d7bf-11e9-9376-71a682b033e5.png)
 
-</p>
 
 ----------------
